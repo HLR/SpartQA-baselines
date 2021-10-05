@@ -29,7 +29,7 @@ All qtypes can be cast into a sequence classification task, and the three transf
 
 
 For running each baseline At first you should install required packages. (torch, transformers (v 4.0.1))
-Download the spartQA dataset from here: https://github.com/HLR/SpartQA_generation/blob/main/SpartQA.zip
+Download the spartQA dataset from here: https://drive.google.com/file/d/1xW8abrXcX_BOkbzjrAr6UoF5KglPHQLh/view?usp=sharing
 Then you should create and empty dataset folder and upload dataset files in it.
 
 After all fo this you should add the related arguments to the running command.
