@@ -94,6 +94,10 @@ python main.py --qtype YN --pretrain bertqa --baseline bert --unseentest --epoch
 Also for changing the place of results you should change the value of "result_adress", and for changing the saving models' place you should change all adresses in the torch.save parts in main.py.
 
 
+Download [SpartQA_Auto](https://www.cse.msu.edu/~kordjams/data/SpartQA_Auto.zip)
+
+Download [SpartQA_Human](https://www.cse.msu.edu/~kordjams/data/SpartQA_Human.zip)
+
 To cite the paper use below Bibtex:
 
 	@inproceedings{mirzaee-etal-2021-spartqa,
